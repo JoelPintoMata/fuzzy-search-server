@@ -8,9 +8,6 @@ import (
 	"os"
 	"strings"
 
-	"golang.org/x/text/encoding/charmap"
-	"golang.org/x/text/transform"
-
 	"github.com/renstrom/fuzzysearch/fuzzy"
 )
 
@@ -47,8 +44,7 @@ func readTerms() {
 	}
 	defer file.Close()
 
-	decoded := transform.NewReader(file, charmap.ISO8859_1.NewDecoder())
-	scanner := bufio.NewScanner(decoded)
+	scanner := bufio.NewScanner(file)
 
 	for scanner.Scan() {
 		term := scanner.Text()

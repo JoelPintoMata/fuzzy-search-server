@@ -1,0 +1,12 @@
+{
+  "name": "Fuzzy search server",
+  "description": "Fuzzy search server",
+  "keywords": [
+    "fuzzy-search-server",
+    "go",
+    "fuzzy",
+    "server"
+  ],
+  "website": "http://github.com/heroku/fuzzy-search-server",
+  "repository": "https://github.com/JoelPintoMata/fuzzy-search-server"
+}

@@ -13,4 +13,4 @@ $ go test -v
 ## Endpoints
 Verb | URI                         | Parameters | Example
 ---------------------------------------------------------------------------------------
-GET  | <server>:<port>/convert/csv | q=<query>  | http://localhost:8080/search?q=leidengit 
+GET  | <server>:<port>/convert/csv | q=<query>  | http://localhost:8080/search?q=leiden 

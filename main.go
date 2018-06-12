@@ -11,6 +11,8 @@ import (
 	"github.com/renstrom/fuzzysearch/fuzzy"
 )
 
+var port string = os.Getenv("PORT")
+
 var termsArray = []string{}
 
 // initializes this fuzzy logic terms
@@ -20,7 +22,7 @@ func init() {
 
 func main() {
 	http.HandleFunc("/search", search)
-	http.ListenAndServe(":8080", nil)
+	http.ListenAndServe(":" + port, nil)
 }
 
 func search(w http.ResponseWriter, r *http.Request) {

@@ -10,7 +10,9 @@ $ go run main.go
 $ go test -v
 ```
 
-## Endpoints
-Verb | URI                         | Parameters | Example
----------------------------------------------------------------------------------------
-GET  | <server>:<port>/convert/csv | q=<query>  | http://localhost:8080/search?q=leiden 
+## Example
+Verb: GET
+Parameters: 
+    source=<source>: reads a source file named `<source>.txt`
+    q=<query>: the query
+Example: http://localhost:8080/search?source=stations&q=leiden 

@@ -17,24 +17,24 @@ var termsMap = map[string][]string{}
 
 func main() {
 	http.HandleFunc("/search", search)
-	http.ListenAndServe(":" + port, nil)
+	http.ListenAndServe(":"+port, nil)
 }
 
 func search(w http.ResponseWriter, r *http.Request) {
-	query := r.URL.Query().Get("q")
 	source := r.URL.Query().Get("source")
+	query := r.URL.Query().Get("q")
 	if termsMap[source] == nil {
 		readSource(source)
 	}
 	ranks := fuzzy.RankFindFold(strings.ToLower(query), termsMap[source])
 	rankAsJSON, err := json.Marshal(ranks)
 	if err != nil {
-		fmt.Println(err)
+		fmt.Printf(err.Error())
 		return
 	}
-    w.WriteHeader(200)
-    w.Header().Set("Content-Type", "application/json")
-    w.Write(rankAsJSON)
+	w.WriteHeader(200)
+	w.Header().Set("Content-Type", "application/json")
+	w.Write(rankAsJSON)
 }
 
 func readSource(source string) {

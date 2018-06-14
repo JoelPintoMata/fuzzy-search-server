@@ -13,12 +13,7 @@ import (
 
 var port string = os.Getenv("PORT")
 
-var termsArray = []string{}
-
-// initializes this fuzzy logic terms
-func init() {
-	readTerms()
-}
+var termsMap = map[string][]string{}
 
 func main() {
 	http.HandleFunc("/search", search)
@@ -27,7 +22,11 @@ func main() {
 
 func search(w http.ResponseWriter, r *http.Request) {
 	query := r.URL.Query().Get("q")
-	ranks := fuzzy.RankFindFold(strings.ToLower(query), termsArray)
+	source := r.URL.Query().Get("source")
+	if termsMap[source] == nil {
+		readSource(source)
+	}
+	ranks := fuzzy.RankFindFold(strings.ToLower(query), termsMap[source])
 	rankAsJSON, err := json.Marshal(ranks)
 	if err != nil {
 		fmt.Println(err)
@@ -38,8 +37,8 @@ func search(w http.ResponseWriter, r *http.Request) {
     w.Write(rankAsJSON)
 }
 
-func readTerms() {
-	file, err := os.Open("terms-source.txt")
+func readSource(source string) {
+	file, err := os.Open(source + ".txt")
 	if err != nil {
 		fmt.Printf(err.Error())
 		return
@@ -50,6 +49,6 @@ func readTerms() {
 
 	for scanner.Scan() {
 		term := scanner.Text()
-		termsArray = append(termsArray, term)
+		termsMap[source] = append(termsMap[source], term)
 	}
 }

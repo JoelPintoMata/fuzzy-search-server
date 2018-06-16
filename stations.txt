@@ -1,13 +1,12 @@
-'s:Gravenhage
-'s:Hertogenbosch
-'s:Hertogenbosch Oost
+'s-Hertogenbosch
+'s-Hertogenbosch Oost
 't Harde
 Aachen Hbf
 Aalten
 Abcoude
 Ahaus
-Aime:la:Plagne
-Aix:en:Provence
+Aime-la-Plagne
+Aix-en-Provence
 Akkrum
 Albertville
 Alessandria
@@ -15,7 +14,6 @@ Alkmaar
 Alkmaar Noord
 Almelo
 Almelo de Riet
-Almere
 Almere Buiten
 Almere Centrum
 Almere Muziekwijk
@@ -23,13 +21,10 @@ Almere Oostvaarders
 Almere Parkwijk
 Almere Poort
 Alphen a/d Rijn
-Alphen aan den Rijn
 Altenberge
 Amersfoort
 Amersfoort Schothorst
 Amersfoort Vathorst
-Amsterdam
-Amsterdam Airport
 Amsterdam Amstel
 Amsterdam Bijlmer ArenA
 Amsterdam Centraal
@@ -42,18 +37,17 @@ Amsterdam Sloterdijk
 Amsterdam Van der Madeweg
 Amsterdam Zuid
 Anna Paulowna
-Antwerpen:Berchem
-Antwerpen:Centraal
-Antwerpen:Luchtbal
-Antwerpen:Noorderdokken
-Antwerpen:Zuid
+Antwerpen-Berchem
+Antwerpen-Centraal
+Antwerpen-Luchtbal
+Antwerpen-Noorderdokken
+Antwerpen-Zuid
 Apeldoorn
 Apeldoorn De Maten
 Apeldoorn Osseveld
 Appingedam
 Arkel
 Arnemuiden
-Arnhem
 Arnhem Centraal
 Arnhem Presikhaaf
 Arnhem Velperpoort
@@ -68,7 +62,7 @@ Bad Nieuweschans
 Bad Oeynhausen
 Bad Schandau
 Baden (CH)
-Baden:Baden
+Baden-Baden
 Baflo
 Barendrecht
 Barneveld Centrum
@@ -77,19 +71,18 @@ Barneveld Zuid
 Basel Bad Bf
 Basel SBB
 Bedum
-Beek:Elsloo
+Beek-Elsloo
 Beesd
 Beilen
 Belsele
 Bergen op Zoom
-Berlijn
 Berlin Gesundbrunnen
 Berlin Hbf
 Berlin Hbf (tief)
 Berlin Ostbahnhof
 Berlin Südkreuz
-Berlin:Schönefeld Flug.
-Berlin:Spandau
+Berlin-Schönefeld Flug.
+Berlin-Spandau
 Best
 Beveren
 Beverwijk
@@ -102,38 +95,35 @@ Bloemendaal
 Bludenz
 Bodegraven
 Boisheim
-Bonen
 Bonn Hbf
 Boom
 Bork (Westf)
 Borne
 Boskoop
 Boskoop Snijdelwijk
-Bourg:St:Maurice
-Boven:Hardinxveld
+Bourg-St-Maurice
+Boven-Hardinxveld
 Bovenkarspel Flora
-Bovenkarspel:Grootebroek
+Bovenkarspel-Grootebroek
 Boxmeer
 Boxtel
 Braunschweig Hbf
 Breda
-Breda:Prinsenbeek
+Breda-Prinsenbeek
 Bressoux
 Breukelen
 Breyell
 Brummen
-Brussel:Centraal
-Brussel:Noord
-Brussel:Zuid/Midi
-Brussels Airport:Zaventem
+Brussel-Centraal
+Brussel-Noord
+Brussel-Zuid/Midi
+Brussels Airport-Zaventem
 Budapest
 Buitenpost
-Bunde
 Bunde
 Bunnik
 Bussum Zuid
 Bönen
-Bûtenpost
 Bünde (Westf)
 Capelle Schollevaar
 Castricum
@@ -148,7 +138,6 @@ Culemborg
 Daarlerveen
 Dalen
 Dalfsen
-De Eschmarke
 De Vink
 De Westereen
 Decin hl.n.
@@ -158,10 +147,7 @@ Delft
 Delft Zuid
 Delfzijl
 Delfzijl West
-Den Bosch
-Den Bosch Oost
 Den Dolder
-Den Haag
 Den Haag Centraal
 Den Haag HS
 Den Haag Laan v NOI
@@ -188,21 +174,15 @@ Dortmund Derne
 Dortmund Hbf
 Dortmund Kirchderne
 Dresden Hbf
-Dresden:Neustadt
-Driebergen:Zeist
+Dresden-Neustadt
+Driebergen-Zeist
 Driehuis
 Dronryp
 Dronten
-Drylts
 Duffel
 Duisburg Hbf
 Duiven
 Duivendrecht
-Dulken
-Dulmen
-Dusseldorf
-Dusseldorf Airport
-Dusseldorf Flughafen
 Dülken
 Dülmen
 Düsseldorf Flughafen
@@ -210,11 +190,11 @@ Düsseldorf Hbf
 Ebbsfleet International
 Echt
 Ede Centrum
-Ede:Wageningen
+Ede-Wageningen
 Eemshaven
 Eijsden
 Eindhoven
-Eindhoven Strijp:S
+Eindhoven Strijp-S
 Ekeren
 Elst
 Emmen
@@ -227,12 +207,11 @@ Enschede De Eschmarke
 Enschede Kennispark
 Epe (Westf)
 Ermelo
-Eschmarke
 Essen (B)
-Etten:Leur
+Etten-Leur
 Eygelshoven
 Eygelshoven Markt
-Eys:Wittem
+Eys-Wittem
 Feanwalden
 Fieberbrunn
 Franeker
@@ -240,19 +219,17 @@ Frankfurt (M) Hbf
 Frankfurt (Oder)
 Frankfurt Flughafen Fernb
 Freiburg (Breisgau) Hbf
-Frjentsjer
 Gaanderen
 Geislingen
 Geldermalsen
 Geldrop
 Geleen Oost
-Geleen:Lutterade
-Gilze:Rijen
+Geleen-Lutterade
+Gilze-Rijen
 Glanerbrug
 Glons
 Goes
 Goor
-Goppingen
 Gorinchem
 Gouda
 Gouda Goverwelle
@@ -262,32 +239,28 @@ Gronau (Westf.)
 Groningen
 Groningen Europapark
 Groningen Noord
-Grou:Jirnsum
-Gulpen:Wijlre
-Gunzburg
+Grou-Jirnsum
+Gulpen-Wijlre
 Göppingen
 Günzburg
 Haarlem
 Haarlem Spaarnwoude
 Hagen Hbf
-Halfweg:Zwanenburg
+Halfweg-Zwanenburg
 Hamburg Hbf
 Hamm (Westf.)
 Hannover Hbf
-Harde ('t)
 Hardenberg
 Harderwijk
 Hardinxveld Blauwe Zoom
-Hardinxveld:Giessendam
+Hardinxveld-Giessendam
 Haren
 Haren OV Transferium
 Harlingen
 Harlingen Haven
-Harns
-Harns Haven
 Hasselt
 Heemskerk
-Heemstede:Aerdenhout
+Heemstede-Aerdenhout
 Heerenveen
 Heerenveen IJsstadion
 Heerhugowaard
@@ -303,20 +276,18 @@ Helmond 't Hout
 Helmond Brandevoort
 Helmond Brouwhuis
 Hemiksem
-Hemmen:Dodewaard
+Hemmen-Dodewaard
 Hengelo
 Hengelo Gezondheidspark
 Hengelo Oost
 Herstal
-Hertogenbosch ('s)
-Hertogenbosch Oost ('s)
 Herzogenrath
 Hillegom
 Hilversum
 Hilversum Media Park
 Hilversum Sportpark
 Hindeloopen
-Hoboken:Polder
+Hoboken-Polder
 Hoensbroek
 Hoevelaken
 Hollandsche Rading
@@ -324,50 +295,43 @@ Holten
 Holzwickede
 Hoofddorp
 Hoogeveen
-Hoogezand:Sappemeer
+Hoogezand-Sappemeer
 Hoogkarspel
 Hoorn
 Hoorn Kersenboogerd
 Hopfgarten
-Horst:Sevenum
+Horst-Sevenum
 Houten
 Houten Castellum
-Houthem:St. Gerlach
+Houthem-St. Gerlach
 Hove
 Hurdegaryp
-Hylpen
 IJlst
 Innsbruck Hbf
-It Hearrenfean
-It Hearrenfean IIsstadium
 Jenbach
 Kaldenkirchen
 Kalmthout
 Kampen
 Kampen Zuid
-Kapelle:Biezelinge
+Kapelle-Biezelinge
 Kapellen
 Karlsruhe Hbf
 Kerkrade Centrum
 Kesteren
-Keulen
 Kijkuit
 Kirchberg in Tirol
 Kitzbühel
 Klarenbeek
-Klimmen:Ransdaal
+Klimmen-Ransdaal
 Koblenz Hbf
-Koln
-Koln:Deutz
 Konin
 Kontich
 Koog aan de Zaan
-Koudum:Molkwar
-Koudum:Molkwerum
+Koudum-Molkwerum
 Krabbendijke
-Krommenie:Assendelft
+Krommenie-Assendelft
 Kropswolde
-Kruiningen:Yerseke
+Kruiningen-Yerseke
 Kufstein
 Kutno
 Köln Hbf
@@ -383,31 +347,24 @@ Leeuwarden
 Leeuwarden Achter d Hoven
 Leeuwarden Camminghaburen
 Legden
-Leiden
 Leiden Centraal
 Leiden Lammenschans
 Lelystad Centrum
 Lette (Kr Coesfeld)
 Leuven
-Lichtenvoorde:Groenlo
+Lichtenvoorde-Groenlo
 Liers
 Lille Europe
 Limburg Süd
 Livorno Centrale
-Liège:Guillemins
-Liège:Jonfosse
-Liège:Palais
-Ljouwert
-Ljouwert Camminghaburen
-Ljouwert Efter de Hannen
+Liège-Guillemins
+Liège-Jonfosse
+Liège-Palais
 Lochem
 Lokeren
 London St. Pancras Int.
 Loppersum
 Lourdes
-Ludinghausen
-Luik
-Lunen
 Lunteren
 Lüdinghausen
 Lünen Hbf
@@ -421,11 +378,11 @@ Mainz Hbf
 Mannheim Hbf
 Mantgum
 Mariënberg
-Marne:la:Vallée:Chessy
-Marseille:St:Charles
+Marne-la-Vallée-Chessy
+Marseille-St-Charles
 Martenshoek
 Mechelen
-Mechelen:Nekkerspoel
+Mechelen-Nekkerspoel
 Meerssen
 Melsele
 Meppel
@@ -433,29 +390,23 @@ Metelen Land
 Middelburg
 Milmort
 Minden (Westf)
-Monchengladbach
 Montabaur
 Mook Molenhoek
-Mortsel:Deurnesteenweg
-Mortsel:Oude God
-Moutiers:Salins:Brides
-Munchen
-Munster (Westf.)
-Munster Zentrum Nord
-Munster:Hager
+Mortsel-Deurnesteenweg
+Mortsel-Oude God
+Moutiers-Salins-Brides
 Mönchengladbach Hbf
 München Hbf
 Münster (W) Zentrum Nord
 Münster (Westf) Hbf
-Münster:Häger
-Naarden:Bussum
+Münster-Häger
+Naarden-Bussum
 Neuss Hbf
 Niel
 Nieuw Amsterdam
 Nieuw Vennep
 Nieuwerkerk a/d IJssel
-Nieuweschans
-Nieuwkerken:Waas
+Nieuwkerken-Waas
 Nijkerk
 Nijmegen
 Nijmegen Dukenburg
@@ -470,7 +421,7 @@ Nuth
 Nürnberg Hbf
 Obdam
 Oberhausen Hbf
-Oberhausen:Sterkrade
+Oberhausen-Sterkrade
 Ochtrup
 Offenburg
 Oisterwijk
@@ -482,15 +433,13 @@ Opheusden
 Osnabrück Hbf
 Oss
 Oss West
-Otztal
 Oudenbosch
 Overveen
-Parijs
-Paris:Nord
+Paris-Nord
 Plochingen
 Poznan Gl.
 Praha hl.n.
-Praha:Holesovice
+Praha-Holesovice
 Preussen
 Purmerend
 Purmerend Overwhere
@@ -506,13 +455,12 @@ Rheine
 Rhenen
 Rijssen
 Rijswijk
-Rilland:Bath
+Rilland-Bath
 Roermond
 Roodeschool
 Roosendaal
-Rosendahl:Holtwick
+Rosendahl-Holtwick
 Rosmalen
-Rotterdam
 Rotterdam Alexander
 Rotterdam Blaak
 Rotterdam Centraal
@@ -520,7 +468,7 @@ Rotterdam Lombardijen
 Rotterdam Noord
 Rotterdam Stadion
 Rotterdam Zuid
-Ruisbroek:Sauvegarde
+Ruisbroek-Sauvegarde
 Ruurlo
 Rzepin
 Saalfelden
@@ -536,39 +484,35 @@ Schiedam Centrum
 Schin op Geul
 Schinnen
 Schiphol Airport
-Schwarzach:St. Veit
+Schwarzach-St. Veit
 Schwelm
 Schwerte (Ruhr)
 Selm
-Selm:Beifang
+Selm-Beifang
 Siegburg/Bonn
 Simpelveld
 Sinaai
-Sint:Katelijne:Waver
-Sint:Mariaburg
-Sint:Niklaas
+Sint-Katelijne-Waver
+Sint-Mariaburg
+Sint-Niklaas
 Sittard
 Sliedrecht
 Sliedrecht Baanhoek
 Sneek
 Sneek Noord
-Snits
-Snits Noard
 Soest
 Soest Zuid
 Soestdijk
 Spaubeek
 Spekholzerheide
-Spoorwegmuseum
 St. Johann im Pongau
 St. Johann in Tirol
-Starum
 Stavoren
 Stedum
 Steenwijk
-Steinfurt:Borghorst
-Steinfurt:Burgsteinfurt
-Steinfurt:Grottenkamp
+Steinfurt-Borghorst
+Steinfurt-Burgsteinfurt
+Steinfurt-Grottenkamp
 Stendal
 Stuttgart Hbf
 Susteren
@@ -590,7 +534,6 @@ Ulm Hbf
 Unna
 Usquert
 Usti nad Labem
-Utrecht
 Utrecht Centraal
 Utrecht Leidsche Rijn
 Utrecht Lunetten
@@ -605,7 +548,7 @@ Varsseveld
 Veendam
 Veenendaal Centrum
 Veenendaal West
-Veenendaal:De Klomp
+Veenendaal-De Klomp
 Velp
 Venlo
 Venray
@@ -619,7 +562,7 @@ Voerendaal
 Voorburg
 Voorhout
 Voorschoten
-Voorst:Empe
+Voorst-Empe
 Vorden
 Vriezenveen
 Vroomshoop
@@ -628,7 +571,6 @@ Waddinxveen
 Waddinxveen Noord
 Waddinxveen Triangel
 Warffum
-Warkum
 Warszawa Centralna
 Warszawa Wschodnia
 Weener
@@ -651,14 +593,12 @@ Woerden
 Wolfheze
 Wolfsburg Hbf
 Wolvega
-Wolvege
-Worgl
 Workum
 Wormerveer
 Wuppertal Hbf
 Wuppertal Oberbarmen
-Wuppertal:Barmen
-Wuppertal:Vohwinkel
+Wuppertal-Barmen
+Wuppertal-Vohwinkel
 Wörgl
 Würzburg Hbf
 Zaandam
@@ -667,14 +607,13 @@ Zaandijk Zaanse Schans
 Zaltbommel
 Zandvoort aan Zee
 Zell am See
-Zetten:Andelst
+Zetten-Andelst
 Zevenaar
 Zevenbergen
 Zoetermeer
 Zoetermeer Oost
 Zuidbroek
 Zuidhorn
-Zurich
 Zutphen
 Zwijndrecht
 Zwijndrecht (B)
